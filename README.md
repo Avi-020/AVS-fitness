@@ -31,3 +31,4 @@ npm run dev
 - **Trainers**: `components/Trainers.js`
 - **Programs**: `components/Programs.js`
 - **Colors**: `tailwind.config.js` → `gold` and `dark` palette
+# AVS-fitness
